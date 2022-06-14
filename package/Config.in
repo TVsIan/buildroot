@@ -613,6 +613,7 @@ endmenu
 	source "package/wilc-driver/Config.in"
 	source "package/wipe/Config.in"
 	source "package/xorriso/Config.in"
+	source "package/xpadneo/Config.in"
 	source "package/xr819-xradio/Config.in"
 endmenu
 
